@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋, I'm Amanullah
 
-<!--
-**amanullahdevpk/amanullahdevpk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer | Karachi, Pakistan
 
-Here are some ideas to get you started:
+I build fast, clean & modern websites for businesses.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Skills:** PHP | Laravel | React | Next.js | JavaScript | WordPress | HTML | CSS | MySQL
+
+### 🚀 My Projects
+
+**1. OceanFleet Website**
+- Modern business website for fleet / logistics company
+- Clean UI, Fast Loading, Mobile Friendly
+- Tech: HTML, CSS, JavaScript
+
+**2. Lawyer Management Website**
+- Complete website for Lawyer / Law Firm
+- Client Management, Case Details, Contact System
+- Tech: PHP, Laravel, MySQL
+
+### 📫 Contact Me
+- GitHub: github.com/amanullahdevpk
+- Location: Karachi, Pakistan
+- Open to Work: WordPress & Frontend Developer Jobs
