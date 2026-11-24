@@ -7,7 +7,7 @@ I build fast, clean & modern websites for businesses.
 Specialized in Frontend + Laravel + WordPress.
 
 ## Skills:
-PHP | Laravel | React | Next.js | JavaScript | TypeScript
+PHP | Laravel | React | Next.js | JavaScript | TypeScript |
 WordPress | HTML | CSS | Tailwind CSS | MySQL | Git
 
 ## 🚀 My Projects
